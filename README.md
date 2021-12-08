@@ -1,5 +1,4 @@
-<hr style="height: 1px">
-
+<br>
 <img style="width: 99%" src="https://media1.giphy.com/media/ubZbH8hLAVBxrry3fz/giphy.gif?cid=790b7611dc2474ed89b371167c1e0a59d248c23da8bac167&rid=giphy.gif">
 <br><br>
 
@@ -20,7 +19,6 @@
 📘 and participating in outdoor activities 
 🏕️⚽ 
  when I have free time</p>
-<hr style="height: 1px">
 
 
 ## Experiences
