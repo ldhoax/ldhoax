@@ -49,6 +49,7 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dontregret9)](https://github.com/dontregret9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dontregret9)
+<br>
 ![](https://komarev.com/ghpvc/?username=dontregret9)
 
 ## Fun Fact
