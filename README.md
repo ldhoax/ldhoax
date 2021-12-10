@@ -46,12 +46,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Github status
+![](https://komarev.com/ghpvc/?username=dontregret9)
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dontregret9)](https://github.com/dontregret9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dontregret9)
 
 ## Fun Fact
-<p> 😭 I'm single 😭 </p>
+<p> I'm single ! </p>
 
 ## Connect with me
 <a href="https://www.facebook.com/profile.php?id=100009479263463"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
