@@ -8,7 +8,7 @@
 
 ## About me
 
-<p>I studied <i>Computer Science</i> at <i>Ho Chi Minh University of Science</i> (2017-2021). GPA: 7/10</p>
+<p>I studied <i>Computer Science</i> at <i>Ho Chi Minh University of Science</i> (2017-2021).</p>
 <p>I'm eager to learn 🔥 and easily adaptable to new environment 🌱 </p>
 <p>I have base knowledge: </p>
 <p>✨ Understanding principles of OOP</p>
