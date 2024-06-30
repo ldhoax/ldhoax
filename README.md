@@ -71,7 +71,6 @@
 <p> I'm single ! </p>
 
 ## Connect with me
-<a href="https://x.com/ldhoax"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/leduchoa12/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.hackerrank.com/dontregret9"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
