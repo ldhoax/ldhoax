@@ -51,8 +51,10 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Kamal](https://img.shields.io/badge/Kamal-3ba4f7?style=for-the-badge&logo=Kamal&logoColor=white)
 
-#### Monitoring
+#### Monitoring & Error Tracking
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Sentry](https://img.shields.io/badge/SENTRY-%23161616.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![New Relic](https://img.shields.io/badge/NEWRELIC-%23161616.svg?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-c2f0ee?style=for-the-badge&logo=Grafana&logoColor=orange)
 ![Prometheus](https://img.shields.io/badge/Prometheus-c2f0ee?style=for-the-badge&logo=Prometheus&logoColor=orange)
 
